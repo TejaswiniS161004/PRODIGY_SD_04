@@ -1,5 +1,5 @@
 # PRODIGY_SD_04 - Sudoku Solver
-# Author: Your Name
+# Author: Tejaswini S
 # Method: Backtracking Algorithm
 
 def print_board(board):
